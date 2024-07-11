@@ -1,0 +1,6 @@
+@QueueTaskManager_HostAddress = http://localhost:5022
+
+GET {{QueueTaskManager_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
